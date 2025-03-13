@@ -1,2 +1,2 @@
 # CodeQL-Test
-Testing CodeQL for static code analysis
+Testing CodeQL for static code analysis.
