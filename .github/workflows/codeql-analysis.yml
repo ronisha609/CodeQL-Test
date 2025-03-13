@@ -37,3 +37,5 @@ jobs:
       with:
         name: codeql-results
         path: /home/runner/work/_temp/codeql_databases/
+
+# Testing trigger
